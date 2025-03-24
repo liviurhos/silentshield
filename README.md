@@ -19,8 +19,8 @@ SilentShield is a lightweight, privacy-first Chrome extension that blocks popups
 SilentShield **does not collect or store any personal data**.  
 All operations are performed locally in your browser.
 
-- [View Privacy Policy](https://yourusername.github.io/silentshield/privacy-policy.html)
-- [View Terms of Use](https://yourusername.github.io/silentshield/terms-of-use.html)
+- [View Privacy Policy](https://liviurhos.github.io/silentshield/privacy-policy.html)
+- [View Terms of Use](https://liviurhos.github.io/silentshield/terms-of-use.html)
 
 ---
 
