@@ -26,7 +26,7 @@ All operations are performed locally in your browser.
 
 ## 📦 Chrome Web Store
 
-🔗 Coming soon…
+🔗 https://chromewebstore.google.com/detail/silentshield/lobggbmnoohgmmioabjeljfhecdpbjmg
 
 ---
 
